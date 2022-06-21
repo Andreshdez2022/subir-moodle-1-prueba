@@ -1,6 +1,6 @@
 import os
 
-api_id = os.environ.get('17897679')
-api_hash = os.environ.get('e7681747482f5867af9de8171136a89b')
-bot_token = os.environ.get('5538378058:AAHm7FstN6-ZpkltzheqkE7yFGDM82z8Usc')
-bot_admin_group = os.environ.get('Zeta30')
+api_id = os.environ.get('15604626')
+api_hash = os.environ.get('d54fb55f472038b4dbd93eb85333234e')
+bot_token = os.environ.get('5206337638:AAHJg125_E_VqNnyGigH2rdG4AGYfqvMEeQ')
+bot_admin_group = os.environ.get('Itachi_Uchia01')
